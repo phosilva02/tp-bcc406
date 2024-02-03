@@ -10,6 +10,9 @@ Este trabalho investiga o papel crucial dos exames de raios-X no diagnóstico e 
 
 ## Experimentos e resultados
 
-a Figura abaixo proporciona uma representação visual dos resultados, exibindo um gráfico de barras que destaca as diferenças de desempenho entre os modelos. Ao observar a imagem, é evidente que a EfficientNet apresentou um desempenho inferior em comparação com as ResNet e DenseNet, enquanto estas duas últimas obtiveram resultados semelhantes. Esta observação sugere que as arquiteturas ResNet e DenseNet possuem vantagens significativas em relação à EfficientNet para a tarefa de classificação de imagens de raios-X. Apesar das variações de desempenho entre os folds e entre os modelos, nenhum dos valores de acurácia obtidos foi menor que 66,7\%. Esse resultado sugere que, de maneira geral, todas as redes apresentaram um desempenho razoável na tarefa de classificação de imagens de raios-X.
+A Figura abaixo proporciona uma representação visual dos resultados, exibindo um gráfico de barras que destaca as diferenças de desempenho entre os modelos. Ao observar a imagem, é evidente que a EfficientNet apresentou um desempenho inferior em comparação com as ResNet e DenseNet, enquanto estas duas últimas obtiveram resultados semelhantes. Esta observação sugere que as arquiteturas ResNet e DenseNet possuem vantagens significativas em relação à EfficientNet para a tarefa de classificação de imagens de raios-X. Apesar das variações de desempenho entre os folds e entre os modelos, nenhum dos valores de acurácia obtidos foi menor que 66,7\%. Esse resultado sugere que, de maneira geral, todas as redes apresentaram um desempenho razoável na tarefa de classificação de imagens de raios-X.
+
+![image](https://github.com/phosilva02/tp-bcc406/assets/89048682/0249a464-486f-4fe6-8d4d-0d00bdeaa03c)
+
 
 
